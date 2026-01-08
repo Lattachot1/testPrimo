@@ -1,4 +1,4 @@
-how to setup dependency and execute code
+how to setup dependency and execute code:
 
 Setup Dependencies "npm install"
 
