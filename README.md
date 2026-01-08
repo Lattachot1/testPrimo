@@ -1,2 +1,4 @@
-1. npm install
-2. npm test
+how to setup dependency and execute code
+
+Setup Dependencies "npm install"
+Run Unit test by "npm test"
